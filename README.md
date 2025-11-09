@@ -42,6 +42,3 @@ DeNews is a decentralized news verification platform that leverages blockchain t
 - Integration with multiple blockchains.
 - Enhanced reputation management for journalists.
 - Decentralized dispute resolution system.
-
-
-// Contract deployed on 0x6aA5a08C1F29A5F69e1D96D2aaBa57886021BdAf
